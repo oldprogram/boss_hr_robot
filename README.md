@@ -18,6 +18,8 @@ pip3 install pyperclip
 
 运行：
 
+到 BOSS 直聘推荐牛人页面，点开一个牛人简历，之后运行脚本：（浏览器窗口和terminal窗口并排放，terminal窗口占10%比例宽度）
+
 ```
 python3 robot.py
 ```
